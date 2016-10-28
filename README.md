@@ -115,9 +115,33 @@ I don't recommend the tsWithKo module requireJs approach. Unless I changed it fr
 http://www.jbrantly.com/es6-modules-with-typescript-and-webpack/
 
 ### templates with KO
-could be external, I'm just using the <script type="text/template">
+could be external, I'm just using the `<script type="text/template">`
 https://github.com/rniemeyer/knockout-amd-helpers
 get the html file and place it in the DOm
 
 computed : rowVmToShowDetailsFor
 with console.log to see when it computes
+
+## Aurelia
+http://aurelia.io
+https://github.com/aurelia/skeleton-navigation
+ - Combining the WebPack TypeScript with the AspNetCore TypeScript
+
+#### Links
+https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia
+http://www.youtube.com/watch?v=fi33aDFKvxE - Discover Aurelia with CEO Rob Eisenberg - YouTube
+https://www.youtube.com/watch?v=rLuuAlDXHU0 - JSChannel 2015 - Angular 2.0 Vs Aurelia
+https://medium.com/hashnode-insights/rob-eisenberg-on-aurelia-and-how-it-stacks-up-against-angular-2-and-react-82721d714449#.xdlygmxs3
+
+https://www.quora.com/How-does-Aurelia-compare-to-Angular
+http://blog.aurelia.io/2015/03/16/aurelia-and-angular-2-code-side-by-side/
+http://pragmatic-coder.net/from-angular-to-aurelia-part1/
+https://www.towfeek.se/2015/07/angularjs-2-vs-aurelia/
+http://davismj.me/blog/aurelia-auth-pt2/
+https://app.pluralsight.com/library/courses/aurelia-fundamentals
+http://pca.st/Jodj - The Aurelia JavaScript Framework with Rob Eisenberg - Hanselminutes
+http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/
+http://opensourcedotnetter.blogspot.com/2016/07/building-web-application-using-aspnet_31.html
+
+
+Starting to feel like [this yet](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.5ukcl6ye7)?
