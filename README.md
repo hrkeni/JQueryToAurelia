@@ -122,7 +122,6 @@ get the html file and place it in the DOm
 computed : rowVmToShowDetailsFor
 with console.log to see when it computes
 
-
 ## Aurelia
 http://aurelia.io
 https://github.com/aurelia/skeleton-navigation
